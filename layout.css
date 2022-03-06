@@ -12,7 +12,7 @@ body {
     margin: 0 auto; /* centrar */
     max-width: 60em;
     background-color: #ffffff;
-    padding: 3vw; /* 2em */
+    padding: 1vw; /* 2em */
     padding-top: .2em;
     padding-bottom: 8em;
     -webkit-box-shadow: 0 10px 10px #730F0F;
