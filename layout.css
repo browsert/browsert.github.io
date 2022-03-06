@@ -12,7 +12,8 @@ body {
     margin: 0 auto; /* centrar */
     max-width: 60em;
     background-color: #ffffff;
-    padding: 2rem; /* 2em 3vw 2rem*/
+    padding.right: 2rem; /* 2em 3vw 2rem*/
+	padding-left: 35px; /* 2em 3vw 2rem*/
     padding-top: .2em;
     padding-bottom: 8em;
     -webkit-box-shadow: 0 10px 10px #730F0F;
